@@ -1,4 +1,4 @@
- # Compute 
+# Compute 
 
 ## Batch 
 Azure batch is a cloud computer service offered by Microsoft Azure that permits to run large-scale parallel and high-performance computing (HPC) workloads effectively and simply into the cloud. It is created to operate the distributio and administration of compute-intensive jobs over a pool of virtual machines (VMs). 
