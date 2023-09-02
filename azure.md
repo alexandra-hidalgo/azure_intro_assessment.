@@ -8,4 +8,9 @@ About the interaction with Python, Microsoft has an official Python SDK for Azur
 ## Web Apps
 Azure App Service is an HTTP set-service for hosting REST APIs, mobile back ends, and web apps.  It can be developed in any language, such as Python, Java, NET, NET Core, PHP, and Node.js. These apps run and scale easy with both Linux and Microsoft-based enviroments.
 
-Azure App service can interact with Python in different ways, based on the specific use and service. 
+Azure App service can interact with Python in different ways, based on the specific use and service. One way is by leveraring the Azure SDK for Python (Azure SDK), which gives a comprehensive set of libraries and instruments to manage and interact with different Azure services, suc as Azure App Service. 
+
+# Database Services
+
+## Azure Cosmos DB
+Azure Cosmos is a fully managed NoSQL and relational database 
